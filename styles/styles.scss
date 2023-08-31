@@ -1,0 +1,10 @@
+.section-container {
+  display: flexbox;
+  justify-content: space-evenly;
+}
+
+.section-container__title {
+  font-family: cursive;
+  font-size: larger;
+  font-weight: 500;
+}
